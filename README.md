@@ -48,4 +48,4 @@ The feature selection techniques used are:
 <img width="562" height="161" alt="image" src="https://github.com/user-attachments/assets/36c0331b-1add-4f03-9b10-6ed9507fde77" />
 
 # RESULT:
-      Thus the program to read the given data and perform Feature Scaling and Feature Selection process and save the data to a file is been executed.
+      Thus the program to read the given data and perform Feature Scaling and Feature Selection process and save the data to a file has been executed.
